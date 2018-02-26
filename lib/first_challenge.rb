@@ -2,9 +2,9 @@
 #    epic_tragedy = {
 #      montague: {
 #      }
-# 
+#
 #      capulet: {
-#        
+#
 #      }
 #    }
 # end
@@ -15,7 +15,7 @@ def first_challenge
      }
 
      :capulet => {
-       
+
      }
    }
 end
